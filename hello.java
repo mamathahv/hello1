@@ -3,5 +3,6 @@ public class hello{
 	{
 	
 		System.out.println("my name is mamatha");
+		System.out.println("welcome to tumkur");
 	}
 }
